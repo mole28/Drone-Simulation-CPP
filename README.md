@@ -17,3 +17,6 @@ A concurrent C++ simulation engine for autonomous drone navigation. This project
 1. Open ConsoleApplication.slnx in Visual Studio 2022.
 2. Set configuration to Debug or Release for x64.
 3. Build Solution (Ctrl+Shift+B).
+
+## Execution Demo
+![Drone System Running](demo.png)

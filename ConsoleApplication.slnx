@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="../../source/repos/ConsoleApplication/ConsoleApplication/ConsoleApplication.vcxproj" Id="c4ff6427-9ab8-4a31-a904-285e13eb13aa" />
+</Solution>

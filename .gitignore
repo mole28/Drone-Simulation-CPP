@@ -1,8 +1,9 @@
-# Visual Studio קבצי זבל של 
 .vs/
 x64/
 Debug/
 Release/
+bin/
+obj/
 *.obj
 *.log
 *.tlog
@@ -11,11 +12,8 @@ Release/
 *.pdb
 *.ilk
 *.exe
-*.out
-*.app
-
-# קבצי הגדרות אישיים
+*.sdf
+*.opensdf
+*.ipch
 *.user
 *.suo
-*.userosscache
-*.sln.docstates
